@@ -25,6 +25,6 @@ This project demonstrates **low-level programming**, direct hardware control, an
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="./screenshots/pic1.png" alt="Gameplay 1" width="400"/>
-  <img src="./screenshots/pic2.png" alt="Gameplay 2" width="400"/>
+  <img src="./screenshots/pic1.jpeg" alt="Gameplay 1" width="400"/>
+  <img src="./screenshots/pic2.jpeg" alt="Gameplay 2" width="400"/>
 </p>
