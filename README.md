@@ -1,2 +1,30 @@
-# Space-Race
-Assembly Project
+# 🚀 Space Race (Arduino Assembly Project)
+
+A **Space Race–style game** implemented in **Assembly for Arduino (AVR microcontrollers)**.  
+This project demonstrates **low-level programming**, direct hardware control, and how classic arcade mechanics can be recreated on microcontrollers.
+
+---
+
+## 🎮 Features
+
+- Written fully in **AVR Assembly**.  
+- Runs directly on **Arduino-compatible boards** (e.g., ATmega328P / Arduino Uno).  
+- Two-player race mechanics: control rockets to dodge obstacles and reach the finish line.  
+- Efficient low-level control of I/O ports and timers.  
+- Optimized for learning **embedded systems programming**.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** AVR Assembly  
+- **Platform:** Arduino (e.g., Arduino Uno / ATmega328P)  
+- **Tools:**  
+  - [Arduino IDE](https://www.arduino.cc/en/software)
+
+## 📸 Screenshots  
+
+<p align="center">
+  <img src="./screenshots/pic1.png" alt="Gameplay 1" width="400"/>
+  <img src="./screenshots/pic2.png" alt="Gameplay 2" width="400"/>
+</p>
