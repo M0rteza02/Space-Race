@@ -26,5 +26,5 @@ This project demonstrates **low-level programming**, direct hardware control, an
 
 <p align="center">
   <img src="./screenshots/pic1.jpeg" alt="Start" width="200"/>
-  <img src="./screenshots/pic2.jpeg" alt="Game" width="200"/>
+  <img src="./screenshots/pic4.jpeg" alt="Game" width="200"/>
 </p>
