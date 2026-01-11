@@ -10,8 +10,7 @@ This project demonstrates **low-level programming**, direct hardware control, an
 - Written fully in **AVR Assembly**.  
 - Runs directly on **Arduino-compatible boards** (e.g., ATmega328P / Arduino Uno).  
 - Two-player race mechanics: control rockets to dodge obstacles and reach the finish line.  
-- Efficient low-level control of I/O ports and timers.  
-- Optimized for learning **embedded systems programming**.  
+- Efficient low-level control of I/O ports and timers.    
 
 ---
 
